@@ -1,0 +1,8 @@
+espnet: '202207'
+files:
+  asr_model_file: exp_libritts/asr_train_asr_ls600_lr005_ctc06_g8_branchformer_raw_en-tts-phnw_bpe100_sp/valid.acc.ave_10best.pth
+python: 3.10.5 (main, Jun  9 2022, 00:00:00) [GCC 11.3.1 20220421 (Red Hat 11.3.1-2)]
+timestamp: 1660126567.453646
+torch: 1.12.1+cu116
+yaml_files:
+  asr_train_config: exp_libritts/asr_train_asr_ls600_lr005_ctc06_g8_branchformer_raw_en-tts-phnw_bpe100_sp/config.yaml
